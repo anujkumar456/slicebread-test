@@ -1,0 +1,17 @@
+/*------------------------------------------------------------------------------------*/
+/*------------------------------  YOUR CUSTOM CSS STYLE  -----------------------------*/
+
+.recaptchatable {
+	display:none;
+		}#re {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #d0d0d0;
+    height: 73px;
+    margin-right: 169px;
+    padding: 10px;
+    position: relative;
+}
+.captcha, #recaptcha_image, #recaptcha_image img {
+    width:100% !important;
+}
+
